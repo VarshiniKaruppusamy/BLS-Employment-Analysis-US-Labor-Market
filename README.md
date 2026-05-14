@@ -60,7 +60,4 @@ Bureau of Labor Statistics, Current Employment Statistics
 (CES) Program via data.gov
 https://catalog.data.gov/dataset/bls-jobs-by-industry-category
 
-## Team
-Varshini Karuppusamy | Himabindu Peramala | Swetha Ganesh
-Course: IE6600 — Computation and Visualization for Analytics
-Northeastern University, Spring 2026
+
